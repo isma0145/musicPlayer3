@@ -24,7 +24,7 @@ const music_list = [
     {
         img : '../musicPlayers/media/images/sun.jpg',
         name : 'Ring The Alarm',
-        artist : 'Beyonce',
+        artist : 'Beyonce!',
         music : '../musicPlayers/media/music/Beyoncé - Ring The Alarm (Video).mp3'
     },
     {
