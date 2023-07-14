@@ -22,28 +22,28 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        img : '../musicPlayers/media/images/sun.jpg',
+        name : 'Ring The Alarm',
+        artist : 'Beyonce',
+        music : '../musicPlayers/media/music/Beyoncé - Ring The Alarm (Video).mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        img : '../musicPlayers/media/images/light.jpg',
+        name : 'Dancing in the MoonLight',
+        artist : 'Some Guy',
+        music : '../musicPlayers/media/music/dancing_in_the_moon_light-top-loader.mp3'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        img : '../musicPlayers/media/images/marshmellow.jpg',
+        name : 'Dont worry, Be Happy',
+        artist : 'Louie Armstrong',
+        music : '../musicPlayers/media/music/dont-worry-be-happy.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        img : '../musicPlayers/media/images/sun.jpg',
+        name : 'Take me Home',
+        artist : 'Artie  Lousie',
+        music : '../musicPlayers/media/music/take-me-home.mp3'
     }
 ];
 
